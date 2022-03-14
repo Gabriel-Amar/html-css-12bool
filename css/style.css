@@ -20,3 +20,22 @@
 .box3{
     height: 80px;
 }
+.box4{
+    height: 50px;
+}
+.black{
+    background-color: black;
+    
+}
+.orange{
+    background-color: #ff9700;
+}
+.brown{
+    background-color: #785446;
+}
+.green{
+    background-color: #8ac149;
+}
+.half{
+    background: linear-gradient(to right, #ff9700 50%, black 51% );
+}

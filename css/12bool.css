@@ -126,3 +126,79 @@
 .between{
     justify-content: space-between;
 }
+
+
+/* pixel art */
+
+.square-1{
+    width: calc(100% / 18 * 1);
+    max-width: calc(100% / 18 * 1);
+}
+.square-2{
+    width: calc(100% / 18 * 2);
+    max-width: calc(100% / 18 * 2);
+}
+.square-3{
+    width: calc(100% / 18 * 3);
+    max-width: calc(100% / 18 * 3);
+}
+.square-4{
+    width: calc(100% / 18 * 4);
+    max-width: calc(100% / 18 * 4);
+}
+.square-5{
+    width: calc(100% / 18 * 5);
+    max-width: calc(100% / 18 * 5);
+}
+.square-6{
+    width: calc(100% / 18 * 6);
+    max-width: calc(100% / 18 * 6);
+}
+.square-7{
+    width: calc(100% / 18 * 7);
+    max-width: calc(100% / 18 * 7);
+}
+.square-8{
+    width: calc(100% / 18 * 8);
+    max-width: calc(100% / 18 * 8);
+}
+.square-9{
+    width: calc(100% / 18 * 9);
+    max-width: calc(100% / 18 * 9);
+}
+.square-10{
+    width: calc(100% / 18 * 10);
+    max-width: calc(100% / 18 * 10);
+}
+.square-11{
+    width: calc(100% / 18 * 11);
+    max-width: calc(100% / 18 * 11);
+}
+.square-12{
+    width: calc(100% / 18 * 12);
+    max-width: calc(100% / 18 * 12);
+}
+.square-13{
+    width: calc(100% / 18 * 13);
+    max-width: calc(100% / 18 * 13);
+}
+.square-14{
+    width: calc(100% / 18 * 14);
+    max-width: calc(100% / 18 * 14);
+}
+.square-15{
+    width: calc(100% / 18 * 15);
+    max-width: calc(100% / 18 * 15);
+}
+.square-16{
+    width: calc(100% / 18 * 16);
+    max-width: calc(100% / 18 * 16);
+}
+.square-17{
+    width: calc(100% / 18 * 17);
+    max-width: calc(100% / 18 * 17);
+}
+.square-18{
+    width: calc(100% / 18 * 18);
+    max-width: calc(100% / 18 * 18);
+}
